@@ -1,5 +1,5 @@
 # reactux-boilerplate
-Basic React,Redux and Firebase Boilerplate Dashboard Code for some fast prototyping.
+Basic React, redux and firebase boilerplate dashboard with basic auth functionality (routes, redirect etc.).
 This template code utilizes :
 
 * firebase/auth: For authentication
